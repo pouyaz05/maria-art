@@ -109,30 +109,6 @@
 | ⚡ **Performance optimization** | Image optimization, lazy loading & Vite's fast build system |  
 | 🔒 **Data security** | Secure backend architecture with Django's built-in security features |  
 
----  
-
-## 📸 Screenshots  
-
-### 🖥️ Desktop View  
-
-| Homepage - Hero Section | Artwork Gallery |  
-|:-----------------------:|:---------------:|  
-| <img src="assets/desktop-hero.png" alt="Hero Section" width="400"/> | <img src="assets/desktop-gallery.png" alt="Gallery" width="400"/> |  
-
-| About Artist Page | Order Section |  
-|:-----------------:|:-------------:|  
-| <img src="assets/desktop-about.png" alt="About" width="400"/> | <img src="assets/desktop-order.png" alt="Order" width="400"/> |  
-
-### 📱 Mobile View  
-
-| Mobile Home | Mobile Gallery | Mobile Menu |  
-|:-----------:|:--------------:|:-----------:|  
-| <img src="assets/mobile-home.png" alt="Mobile Home" width="180"/> | <img src="assets/mobile-gallery.png" alt="Mobile Gallery" width="180"/> | <img src="assets/mobile-menu.png" alt="Mobile Menu" width="180"/> |  
-
-> 💡 **Tip:** Use [Shots.so](https://shots.so) to create professional framed screenshots  
-
----  
-
 ## 🌐 Live Links  
 
 | Link | URL |  
