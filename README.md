@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" alt="Status"/>  
     <img src="https://img.shields.io/badge/client-100%25_satisfied-brightgreen?style=flat-square" alt="Client"/>  
     <img src="https://img.shields.io/badge/deployed-production-blue?style=flat-square" alt="Production"/>  
-    <img src="https://img.shields.io/badge/delivery-14_days-orange?style=flat-square" alt="Delivery"/>  
   </p>  
 
   <br/>  
