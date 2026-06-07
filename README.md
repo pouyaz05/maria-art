@@ -114,7 +114,7 @@
 | Link | URL |  
 |-----|-----|  
 | 🔗 **Live Website** | [maria-art.ir](https://maria-art.ir) |  
-| 📂 **GitHub Repository** | [github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) |  
+| 📂 **GitHub Repository** | [github.com/your-username/your-repo-name](https://github.com/pouyaz05/maria-art) |  
 
 
 ## 🚀 Key Results  
